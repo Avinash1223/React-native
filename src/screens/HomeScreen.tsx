@@ -1,12 +1,12 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 
-const App: React.FC = () => {
+const HomeScreen = () => {
   return (
     <View>
-      <Text>Avinash</Text>
+      <Text>Home Screen</Text>
     </View>
   );
 };
 
-export default App;
+export default HomeScreen;
